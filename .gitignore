@@ -1,0 +1,15 @@
+# Local system files and private scratch work
+.DS_Store
+Thumbs.db
+desktop.ini
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.private/
+scratch/
+__pycache__/
+
+# A personal progress file belongs in the reader's practice project.
+/setup-progress.md
