@@ -8,6 +8,7 @@ Checked on **20 October 2026**. These are provider-maintained references, not a 
 | --- | --- |
 | VS Code downloads | [Download](https://code.visualstudio.com/download) |
 | Installation | [Windows](https://code.visualstudio.com/docs/setup/windows), [Mac](https://code.visualstudio.com/docs/setup/mac), [Linux](https://code.visualstudio.com/docs/setup/linux) |
+| Reading and editing Markdown | [VS Code Markdown preview](https://code.visualstudio.com/docs/languages/markdown#markdown-preview) |
 | Codex installation and editor use | [OpenAI's Codex IDE guide](https://learn.chatgpt.com/docs/codex/ide) |
 | Codex on Windows | [Windows sandbox](https://learn.chatgpt.com/docs/windows/windows-sandbox) |
 | Claude Code extension and access | [Anthropic's VS Code guide](https://code.claude.com/docs/en/vs-code) |

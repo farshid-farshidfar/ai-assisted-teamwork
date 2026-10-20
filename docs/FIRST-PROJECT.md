@@ -16,7 +16,7 @@ Tell me how to open and read the file in VS Code.
 Do not install software or upload anything.
 ```
 
-Open the file. A `.md` file is text with simple formatting, called Markdown. VS Code can show a formatted version: open the Command Palette from the **View** menu and search **Markdown: Open Preview to the Side**.
+Open the file. A `.md` file is text with simple formatting, called Markdown. For easier reading, right-click the file's tab at the top of the editor and choose **Open Preview**. To edit it yourself, double-click the file in the left-hand file panel and change the text, or ask your AI assistant to make the change. See [reading and editing Markdown files](../README.md#reading-and-editing-markdown-files) for keyboard shortcuts and a preview beside your text.
 
 Then ask: “Make the second headline warmer and less formal. Change only that headline.” Read the result and decide whether you like it. You have now completed a useful task without writing code.
 

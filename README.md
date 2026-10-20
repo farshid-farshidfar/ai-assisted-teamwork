@@ -52,6 +52,16 @@ Start alone with fictional information. The public repository you are reading is
 
 This workflow is especially useful for briefs, campaign copy, plans, research notes, and decisions stored as text. The [design-team example](docs/TEAMWORK.md) shows how it can sit alongside Figma, Adobe tools, and shared storage. It does not assume every team should replace its current tools.
 
+## Reading and editing Markdown files
+
+A `.md` file is a Markdown document. In VS Code, **Preview** is usually easier for reading because it displays formatted headings, lists, and links.
+
+- **To read:** open the file, right-click its tab at the top of the editor, and choose **Open Preview**. Alternatively, use **Ctrl+Shift+V** on Windows/Linux or **Cmd+Shift+V** on Mac.
+- **To edit:** double-click the file in the left-hand file panel to open its text, make your changes, and save. Or ask your AI assistant: “Change the introduction in README.md to say …” Then review the result.
+- **To see both:** choose **View → Command Palette**, then search **Markdown: Open Preview to the Side**. The preview updates as you edit.
+
+More detail: [VS Code's Markdown preview instructions](https://code.visualstudio.com/docs/languages/markdown#markdown-preview).
+
 ## Choose the next page
 
 | I want to… | Open |
